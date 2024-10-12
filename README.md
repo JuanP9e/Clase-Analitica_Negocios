@@ -1,2 +1,2 @@
-# Clase-Analitica_Negocios
+# Clase_Analitica_Negocios
 Practiva GitHub
